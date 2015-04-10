@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <canh>
+        <canh nhan>
     </div>
     </form>
 </body>
