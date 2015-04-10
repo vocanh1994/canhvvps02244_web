@@ -3,6 +3,7 @@
     margin: 0px auto;
     background: fixed url('../img/bg.jpg');
     background-size:cover;
+    font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }
 .full {
     text-align :center ;
@@ -108,4 +109,10 @@
 }
 .myButton:active {
 	position:relative;
+}
+
+.ghihoadon {
+    background-color:#FFFFFF;
+    width : 80%;
+    height: auto ;
 }
