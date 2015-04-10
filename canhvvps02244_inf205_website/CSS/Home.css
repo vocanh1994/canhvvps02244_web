@@ -1,0 +1,89 @@
+﻿body {
+    width: 100%;
+    margin: 0px auto;
+    background: fixed url('../img/bg.jpg');
+    background-size:cover;
+}
+
+.GioiThieu {
+    margin:auto;
+    width: 80%;
+    height: auto;
+    padding: 0px;
+    padding: 50px 0px;
+}
+    .GioiThieu a {
+        color:#ffffff;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .GioiThieu .text {
+        position:relative;
+        left: 25%;
+        top: 25%;
+        width:50%;
+    }
+    .GioiThieu .small {
+        font-size: 26px;
+    }
+    .GioiThieu .large {
+        font-size: 45px;
+    }
+    .GioiThieu .line {
+        font-size: 12px;
+    }
+
+.DanhMuc {
+    position: relative;
+    width:80%;
+    margin:auto;
+    height: auto;
+    left: 50px;
+}
+/********************/
+
+.Info {
+    position: relative;
+    float:left;
+    margin: auto;
+    height:100px;
+    width:100%;
+    text-align:center;
+}
+    .Info a {
+        position:relative;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 14px;
+        color:#ffffff;
+        top: 70px;
+    }
+
+/********************/
+.muc {
+    position: relative;
+    padding: 10px;
+    float:left;
+    height: auto;
+    width:128px;
+    text-align:center;
+    margin-right: 50px;
+    margin-top: 50px;
+    border: 1px solid;
+    border-color: transparent;
+    border-radius: 15px;
+    transition:1.5s;
+
+}
+.muc:hover {
+    border: 1px #ffffff solid;
+    transition:0.8s;
+}
+    .icon {
+        margin:auto;
+        padding: 0px 0px 10px 0px;
+    }
+    .title_icon {
+        text-align:center;
+        color: #ffffff;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 16px;
+    }
