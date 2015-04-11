@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Home | Quản lý bán hàng</title>
+    <link rel="icon" href="../img/128px/Finder.ico" type="image/x-icon" />
     <link href="../CSS/Home.css" rel="stylesheet" />
 </head>
 <body>
@@ -24,33 +25,27 @@
                 </a>
             </div>
             <div class="muc">
-                <a href="#">
+                <a href="../ChucNang/Xem_hoa_don.aspx">
                     <img class="icon" src ="../img/128px/magnifyingglass.png"/>
                     <a class="title_icon">Xem hóa đơn</a>
                 </a>
             </div>
             <div class="muc">
-                <a href="#">
+                <a href="../ChucNang/Khach_hang.aspx">
                     <img class="icon" src ="../img/128px/contacts.png"/>
                     <a class="title_icon">Khách hàng</a>
                 </a>
             </div>
             <div class="muc">
-                <a href="#">
+                <a href="../ChucNang/San_pham.aspx">
                     <img class="icon" src ="../img/128px/present.png"/>
                     <a class="title_icon">Sản phẩm</a>
                 </a>
             </div>
             <div class="muc">
-                <a href="#">
+                <a href="../ChucNang/Loai_san_pham.aspx">
                     <img class="icon" src ="../img/128px/colorwheel.png"/>
                     <a class="title_icon">Loại sản phẩm</a>
-                </a>
-            </div>
-            <div class="muc">
-                <a href="#">
-                    <img class="icon" src ="../img/128px/document.png"/>
-                    <a class="title_icon">In hóa đơn</a>
                 </a>
             </div>
             <div class="muc">
@@ -80,7 +75,7 @@
     </div>
     
     <div class ="Info">
-        <a>&copy 04/2015 by Võ Văn Cảnh | Hệ thống quản lý bán hàng cho công ty | vocanh . Inc Vesion 1.0.1</a>
+        <a>&copy 04/2015 by Võ Văn Cảnh | </a><a style ="color :#ffffff" href ="https://vocanh1994.wordpress.com/">https://vocanh1994.wordpress.com/</a><a> | Hệ thống quản lý bán hàng cho công ty | vocanh . Inc Vesion 1.0.1</a>
     </div>
 
     </form>

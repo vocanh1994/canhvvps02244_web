@@ -1,0 +1,56 @@
+﻿.Show {
+    width : 80%;
+    height : auto ;
+    background-color :#ffffff;
+    margin : auto ;
+    text-align :center ;
+}
+.hienthi {
+    text-align :center ;
+    margin : auto ;
+    width : auto  ;
+    height : auto ;
+    padding : 0px 50px 20px 50px;
+}
+.GridView1 {
+    margin :auto ;
+}
+.title {
+
+    padding : 100px 0px 50px 0px;
+    font-size: 30px;
+}
+
+.home {
+    position : relative ;
+    float :left ;
+    margin-top  : 20px;
+    margin-left : 20px;
+}
+
+.myButton {
+	background-color:#C0392B;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:16px;
+	font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	padding:10px 15px;
+    transition: 1s;
+    border-radius : 10px;
+}
+.myButton:hover {
+	background-color:#E74C3C;
+    transition: 0.8s;
+}
+.myButton:active {
+	position:relative;
+}
+
+
+.ghiHD {
+     position : relative ;
+    float : right ;
+    margin-top  : 20px;
+    margin-right: 20px;
+}

@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Hướng dẫn | Quản lý bán hàng</title>
+    <link rel="icon" href="../img/128px/Finder.ico" type="image/x-icon" />
     <link href="../CSS/Style.css" rel="stylesheet" />
 </head>
 <body>

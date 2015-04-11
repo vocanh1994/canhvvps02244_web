@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Quản lý bán hàng</title>
+    <link rel="icon" href="img/128px/Finder.ico" type="image/x-icon" />
     <link href="CSS/Style.css" rel="stylesheet" />
 </head>
 <body>
@@ -32,7 +33,7 @@
         <p class="baoloi"><asp:Label ID="lbl_error" runat="server" Text=""></asp:Label></p>
     </div>
     <div class="info">
-        <p>&copy 04/2015 by Võ Văn Cảnh | Hệ thống quản lý bán hàng cho công ty | vocanh . Inc Vesion 1.0.1</p>
+        <p>&copy 04/2015 by Võ Văn Cảnh | <a style ="color :#ffffff" href ="https://vocanh1994.wordpress.com/">https://vocanh1994.wordpress.com/</a> | Hệ thống quản lý bán hàng cho công ty | vocanh . Inc Vesion 1.0.1</p>
     </div>
     </form>
 </body>
