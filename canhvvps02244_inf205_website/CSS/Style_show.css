@@ -34,7 +34,6 @@
 	color:#ffffff;
 	font-size:16px;
 	font-weight:bold;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	padding:10px 15px;
     transition: 1s;
     border-radius : 10px;
@@ -49,7 +48,7 @@
 
 
 .ghiHD {
-     position : relative ;
+    position : relative ;
     float : right ;
     margin-top  : 20px;
     margin-right: 20px;

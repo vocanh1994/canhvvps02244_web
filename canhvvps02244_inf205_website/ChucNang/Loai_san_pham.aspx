@@ -8,6 +8,7 @@
     <link rel="icon" href="../img/128px/Finder.ico" type="image/x-icon" />
     <link href="../CSS/Style.css" rel="stylesheet" />
     <link href="../CSS/Style_show.css" rel="stylesheet" />
+	<link href="../CSS/font.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -23,4 +24,4 @@
     </div>
     </form>
 </body>
-</html>
+</html><noembed/>

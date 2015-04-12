@@ -3,7 +3,6 @@
     margin: 0px auto;
     background: fixed url('../img/bg.jpg');
     background-size:cover;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .full {
     background-color: #ECF0F1;
@@ -49,7 +48,7 @@
     background-color: #FFF;
     border: 1px solid rgba(0, 0, 0, 1   );
     color: #777;
-    font: 16px Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    font: 16px ;
     margin: 0px;
     padding: 7px 5px 7px 5px;
     width: 250px;
@@ -70,7 +69,6 @@
 	color:#ffffff;
 	font-size:19px;
 	font-weight:bold;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	padding:5px 10px;
     border: 1px solid rgba(255, 255, 255, 0.00);
     transition: 1s;
@@ -106,7 +104,6 @@
 	color:#ffffff;
 	font-size:16px;
 	font-weight:bold;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	padding:10px 15px;
     border: 1px solid rgba(255, 255, 255, 0.00);
     transition: 1s;

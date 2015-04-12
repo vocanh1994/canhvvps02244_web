@@ -8,6 +8,7 @@
     <link rel="icon" href="../img/128px/Finder.ico" type="image/x-icon" />
     <link href="../CSS/Style.css" rel="stylesheet" />
     <link href="../CSS/Style_show.css" rel="stylesheet" />
+	<link href="../CSS/font.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -20,10 +21,10 @@
         </div> 
         <div class =" title">Danh sách hóa đơn được ghi nhận</div>
         <div class ="hienthi">
-            <asp:GridView ID="GridView1" runat="server" DataSourceID ="SqlDataSource1"></asp:GridView>
+            <asp:GridView CssClass ="GridView1" ID="GridView1" runat="server" DataSourceID ="SqlDataSource1"></asp:GridView>
             <asp:SqlDataSource ID="SqlDataSource1" runat="server"></asp:SqlDataSource>
         </div>
     </div>
     </form>
 </body>
-</html>
+</html><noembed/>

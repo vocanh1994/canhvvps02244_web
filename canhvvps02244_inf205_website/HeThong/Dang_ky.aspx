@@ -7,6 +7,7 @@
     <title>Đăng ký | Quản lý bán hàng</title>
     <link rel="icon" href="../img/128px/Finder.ico" type="image/x-icon" />
     <link href="../CSS/DangKy.css" rel="stylesheet" />
+	<link href="../CSS/font.css" rel="stylesheet" />
 </head>
 <body>
     <form id="Dang_ky" runat="server">
@@ -72,4 +73,4 @@
     </div>
     </form>
 </body>
-</html>
+</html><noembed/>

@@ -7,6 +7,7 @@
     <title>Home | Quản lý bán hàng</title>
     <link rel="icon" href="../img/128px/Finder.ico" type="image/x-icon" />
     <link href="../CSS/Home.css" rel="stylesheet" />
+	<link href="../CSS/font.css" rel="stylesheet" />
 </head>
 <body>
     <form id="Home" runat="server">
@@ -80,4 +81,4 @@
 
     </form>
 </body>
-</html>
+</html><noembed/>
